@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(235, 75, 115);
+}
+
+h1{
+    color: rgb(91, 34, 224);
+    background-color: cornsilk;
+}
+
+#show_sketch{
+    float: right;
+}
+
+#score_id{
+    font-size: 15px;
+    margin: left;
+
+}
+
+#Timer{
+    font-size: 15px;
+    float: right;
+    margin: right;
+}
+
+#Drawn{
+    color: crimson;
+}
